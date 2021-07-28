@@ -40,11 +40,11 @@ You should see something like this.
 ```
 detection_1.jpg
 ```
-![alt text](https://github.com/heartkilla/yolo-v3/blob/master/data/detection_examples/detection_1.jpg)
+![alt text](https://github.com/sinking8/YOLO-v3/blob/master/data/detection_examples/detection_1.jpg)
 ```
 detection_2.jpg
 ```
-![alt text](https://github.com/heartkilla/yolo-v3/blob/master/data/detection_examples/detection_2.jpg)
+![alt text](https://github.com/sinking8/YOLO-v3/blob/master/data/detection_examples/detection_2.jpg)
 ### Video example
 You can also run the script with video files.
 ```
@@ -62,5 +62,3 @@ The detections will be saved as `detections.mp4` file.
 * [ResNet official implementation](https://github.com/tensorflow/models/tree/master/official/resnet)
 * [DeviceHive video analysis repo](https://github.com/devicehive/devicehive-video-analysis)
 * [A Street Walk in Shinjuku, Tokyo, Japan](https://www.youtube.com/watch?v=kZ7caIK4RXI)
-# YOLO-v3
-
